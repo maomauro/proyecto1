@@ -89,7 +89,6 @@ button:hover {
 footer {
     background-color: #333;
     color: white;
-<<<<<<< HEAD
     margin-top: 40px;
 }
 
@@ -142,14 +141,4 @@ footer {
     border-top: 1px solid #555;
     text-align: center;
     padding: 15px;
-=======
-    text-align: center;
-    padding: 20px;
-    margin-top: 40px;
-}
-
-footer p {
-    color: white;
-    margin: 0;
->>>>>>> cabecera
 }
